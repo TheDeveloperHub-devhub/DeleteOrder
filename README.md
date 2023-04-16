@@ -28,7 +28,7 @@ Automatically delete an invoice, shipments, credit memo, and other linked data a
 1. Please run the following command
 ```shell
 composer require devhub/core
-composer require devhub/deleteorder
+composer require devhub/delete-order
 ```
 
 2. Update the composer if required
